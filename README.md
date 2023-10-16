@@ -7,11 +7,11 @@
 My name is Jiayi Zhou, and I'm a first-year student in Duke's Master of Interdisciplinary Data Science program. I am passionate about data science and am excited to pursue academic and professional goals in this field.
 
 Here are some highlight projects:
-* [Data Mining Project on Stock Prediction] (https://github.com/JiayiZhou36/DataMiningProject)
-* [Database Interface Car Dealership] (https://github.com/JiayiZhou36/DatabaseManagementProject)
-* [Statistics Prediction on Airbnb Price] (https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_1)
-* [Continuous Integration/GitHub Actions] (https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject1_JiayiZhou)
-* [Statistics Inference on Jury Trials] (https://github.com/JiayiZhou36/StatisticsCapstone)
+* [Data Mining Project on Stock Prediction](https://github.com/JiayiZhou36/DataMiningProject)
+* [Database Interface Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
+* [Statistics Prediction on Airbnb Price](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_1)
+* [Continuous Integration/GitHub Actions](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject1_JiayiZhou)
+* [Statistics Inference on Jury Trials](https://github.com/JiayiZhou36/StatisticsCapstone)
 <!--
 **JiayiZhou36/JiayiZhou36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
