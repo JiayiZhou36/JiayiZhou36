@@ -11,6 +11,7 @@ Here are some highlight projects:
 * [Database Interface Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
 * [Statistics Prediction on Airbnb Price](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_1)
 * [Continuous Integration/GitHub Actions](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject1_JiayiZhou)
+* [Rust Command Line Tool with SQLite](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject2_JiayiZhou)
 * [Statistics Inference on Jury Trials](https://github.com/JiayiZhou36/StatisticsCapstone)
 
 And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in/jiayi-zhou-0b6805197/).
