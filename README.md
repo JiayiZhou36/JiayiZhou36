@@ -9,6 +9,7 @@ My name is Jiayi Zhou, and I'm a first-year student in Duke's Master of Interdis
 Here are some highlight projects:
 * [Data Mining Project on Stock Prediction](https://github.com/JiayiZhou36/DataMiningProject)
 * [Database Interface Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
+* [Assessing the Impact of Opioid Prescription Drug Policies on Mortality Trends](https://github.com/JiayiZhou36/opioid-2023-group-8-final-opioid)
 * [Statistics Inference on Jury Trials](https://github.com/JiayiZhou36/StatisticsCapstone)
 * [Statistics Prediction on Airbnb Price](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_1)
 * [Statistics Race Gender Job Application Callback](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_2)
