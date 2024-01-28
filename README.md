@@ -12,7 +12,6 @@ Here are some highlight projects:
 * [Statistics Inference on Jury Trials](https://github.com/JiayiZhou36/StatisticsCapstone)
 * [Statistics Prediction on Airbnb Price](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_1)
 * [Statistics Race Gender Job Application Callback](https://github.com/JiayiZhou36/Fall2023_IDS702_IndividualAnalysis_2)
-* [Continuous Integration/GitHub Actions](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject1_JiayiZhou)
 * [Rust Command Line Tool with SQLite](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject2_JiayiZhou)
 * [Auto Scaling Flask App Using Azure Container Platform](https://github.com/JiayiZhou36/DE_team_project)
 
