@@ -7,6 +7,7 @@
 My name is Jiayi Zhou, and I'm a first-year student in Duke's Master of Interdisciplinary Data Science program. I am passionate about data science and am excited to pursue academic and professional goals in this field.
 
 Here are some highlight projects:
+* [NLP YouTube Classification](https://github.com/JiayiZhou36/Fall2023_IDS703_FinalProject)
 * [Data Mining Project on Stock Prediction](https://github.com/JiayiZhou36/DataMiningProject)
 * [Database Interface Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
 * [Assessing the Impact of Opioid Prescription Drug Policies on Mortality Trends](https://github.com/JiayiZhou36/opioid-2023-group-8-final-opioid)
