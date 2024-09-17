@@ -8,7 +8,7 @@ My name is Jiayi Zhou, and I'm a first-year student in Duke's Master of Interdis
 
 Here are some highlight projects:
 * [NLP YouTube Classification](https://github.com/JiayiZhou36/Fall2023_IDS703_FinalProject)
-* [Classifying Art by Genre and Emotion Evoked](https://github.com/JiayiZhou36/Classifying-Art-by-Genre-and-Emotion-Evoked)
+* [Image Classification--Art by Genre and Emotion Evoked](https://github.com/JiayiZhou36/Classifying-Art-by-Genre-and-Emotion-Evoked)
 * [LLM Movie Recommendation App](https://gitlab.com/JiayiZhou36/movie-recommendation-app)
 * [Data Mining Project on Stock Prediction](https://github.com/JiayiZhou36/DataMiningProject)
 * [Database Interface Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
