@@ -4,7 +4,7 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayi-zhou-0b6805197/)
 
 </div>
-My name is Jiayi Zhou, and I'm a first-year student in Duke's Master of Interdisciplinary Data Science program. I am passionate about data science and am excited to pursue academic and professional goals in this field.
+My name is Jiayi Zhou, and I'm a second-year student in Duke's Master of Interdisciplinary Data Science program. I am passionate about data science and am excited to pursue academic and professional goals in this field.
 
 Here are some highlight projects:
 * [NLP YouTube Classification](https://github.com/JiayiZhou36/Fall2023_IDS703_FinalProject)
