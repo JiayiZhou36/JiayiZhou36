@@ -7,7 +7,7 @@
 My name is Jiayi Zhou, and I'm a second-year student in Duke's Master of Interdisciplinary Data Science program. I am passionate about data science and am excited to pursue academic and professional goals in this field.
 
 Here are some highlight projects:
-* [Cloud--LLM Movie Recommendation App](https://gitlab.com/JiayiZhou36/movie-recommendation-app)
+* [Cloud--LLM Movie Recommendation App](https://gitlab.com/jeremymtan/jjta-cloud-final)
 * [Data Engineering--Rust Command Line Tool with SQLite](https://github.com/JiayiZhou36/Fall2023_IDS706_IndividualProject2_JiayiZhou)
 * [Data Engineering--Auto Scaling Flask App Using Azure Container Platform](https://github.com/JiayiZhou36/DE_team_project)
 * [Database Interface--Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
