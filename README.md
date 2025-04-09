@@ -13,6 +13,7 @@ Here are some highlight projects:
 * [Database Interface--Car Dealership](https://github.com/JiayiZhou36/DatabaseManagementProject)
 * [NLP--YouTube Classification](https://github.com/JiayiZhou36/Fall2023_IDS703_FinalProject)
 * [Image Classification--Art by Genre and Emotion Evoked](https://github.com/JiayiZhou36/Classifying-Art-by-Genre-and-Emotion-Evoked)
+* [Adversarial Patch Attacks on CIFAR-10](https://github.com/jiwonny29/Deep_learning_final)
 * [Data Mining--Stock Prediction](https://github.com/JiayiZhou36/DataMiningProject)
 * [AB Test--Assessing the Impact of Opioid Prescription Drug Policies on Mortality Trends](https://github.com/JiayiZhou36/opioid-2023-group-8-final-opioid)
 * [Statistics Inference--Jury Trials](https://github.com/JiayiZhou36/StatisticsCapstone)
